@@ -38,7 +38,7 @@ const PayslipGenerator = () => {
         <Container className="payslip-container">
             <div>
                 <img src={Logo} alt="Company Logo" className="logo" style={{ padding: "20px", width: "200px", height: "auto" }} />
-                <h1 className="text-center mb-4">Company name</h1>
+                <h1 className="text-center mb-4">Enoylity Media Creations Private Limited</h1>
             </div>
             <h2 className="text-center mb-4">Payslip Generator</h2>
             <Form>
